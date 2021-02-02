@@ -2,3 +2,6 @@
 2, Average gene expression of each cell type acorss all individuals for case and control respectively.
 3, Raw ligand-target matrix that gives every ligand-target pair a score.
 4, Processed ligand-target matrix, ligand and target gene expression dataframe. 
+
+All the above data can be downloaded from this link:
+https://cinsdataset.s3.amazonaws.com/cinsdataset.zip
