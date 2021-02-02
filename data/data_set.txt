@@ -1,0 +1,4 @@
+1, Metadata of single cell RNA-Seq data, including case control, individual, cell type assignment information.
+2, Average gene expression of each cell type acorss all individuals for case and control respectively.
+3, Raw ligand-target matrix that gives every ligand-target pair a score.
+4, Processed ligand-target matrix, ligand and target gene expression dataframe. 
